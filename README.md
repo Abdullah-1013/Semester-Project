@@ -47,35 +47,33 @@ To run the project locally, follow these steps:
 
 1.  Clone the repository:
     
-    bashCopy code
-    
-    `git clone https://github.com/your-username/woltaroo.git` 
+    https://github.com/Abdullah-1013/Semester-Project 
     
 2.  Install dependencies:
     
-    bashCopy code
-    
-    `cd woltaroo
-    npm install` 
+    npm i
     
 3.  Run the application:
     
-    bashCopy code
+    npx expo start
     
-    `expo start` 
-
 4. Setting up env doc:
 	Please visit Google Console to set up your Google Maps API key
-    
+5. Expo Version:
+   You need to install expo version-49 form the ink below:
+   https://expo.dev/go
+   Open this link and select SDK 49 and click on download below according to OS(Android & OS) you have    
 
 ## Contributing
 
-We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback to help improve Woltaroo.
+We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback to help improve Woltaroo.Looking forward for your reviews.
+Regards,
+Abdul Manan.
+Abdullah Javed.
+Awais.
 
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
-
-----------
+This project is licensed under the abdullahbj6311@gmail.com
 
 Enjoy using Woltaroo and have a delightful food delivery experience! 🍔🚀
